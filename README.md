@@ -5,7 +5,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=camidev99" alt="camidev99" /></a> </p>
 
-- 🌱 I’m currently learning **.NET, and mobile development**
+- 🌱 I’m currently learning **mobile development and UX/UI design**
 
 - 👨‍💻 All of my projects are available at [https://github.com/camidev99](https://github.com/camidev99)
 
